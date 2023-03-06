@@ -6,11 +6,11 @@ Welcome to Awesome Excel Resources! This is a curated list of resources for Micr
 Table of Contents
 -----------------
 
--   [Information](https://github.com/Flozad/Awesome-Excelt#information)
--   [Goals](https://github.com/Flozad/Awesome-Excelt#goals)
--   [Usage](https://github.com/Flozad/Awesome-Excelt#usage)
--   [Contributing](https://github.com/Flozad/Awesome-Excelt#contributing)
--   [License](https://github.com/Flozad/Awesome-Excelt#license)
+-   [Information](https://github.com/Flozad/Awesome-Excel#information)
+-   [Goals](https://github.com/Flozad/Awesome-Excel#goals)
+-   [Usage](https://github.com/Flozad/Awesome-Excel#usage)
+-   [Contributing](https://github.com/Flozad/Awesome-Excel#contributing)
+-   [License](https://github.com/Flozad/Awesome-Excel#license)
 
 Information
 -----------
@@ -34,7 +34,7 @@ By collecting these resources in one place, we hope to make it easier for users 
 Usage
 -----
 
-To use this Awesome list, simply navigate to the relevant section and browse the resources. You can also use the search function to find specific keywords or topics. If you have a resource that you would like to add, please see the [Contributing](https://github.com/Flozad/Awesome-Excelt#contributing) section.
+To use this Awesome list, simply navigate to the relevant section and browse the resources. You can also use the search function to find specific keywords or topics. If you have a resource that you would like to add, please see the [Contributing](https://github.com/Flozad/Awesome-Excel#contributing) section.
 
 Contributing
 ------------
